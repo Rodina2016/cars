@@ -1,0 +1,50 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.filterContainer {
+  padding: 20px 20px 0;
+  display: flex;
+  gap: 20px;
+}
+
+.list {
+ 	display: flex;
+  flex-wrap: wrap;
+  gap: 20px; 
+  justify-content: flex-start;
+  padding: 20px 0 20px 20px; 
+}
+
+.text {
+  color: #333333;
+}
+
+.btn {
+  width: 100%;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  line-height: 1.5;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.btn:active {
+  background-color: #004094;
+}
+
+.btn:focus {
+  outline: 2px solid #0056b3;
+  outline-offset: 2px;
+}

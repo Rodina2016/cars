@@ -1,0 +1,193 @@
+[
+  {
+    "id": 1,
+    "brand": "Tesla",
+    "model": "Model S",
+    "color": "Белый",
+    "price": 75000,
+    "year": 2020,
+    "engineType": "Электрический",
+    "range": 400,
+    "imageUrl": "/images/tesla.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "BMW",
+    "model": "X5",
+    "color": "Черный",
+    "price": 60000,
+    "year": 2018,
+    "engineType": "Бензиновый",
+    "transmission": "Автоматическая",
+    "imageUrl": "/images/bmw-x5.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Audi",
+    "model": "A4",
+    "color": "Синий",
+    "price": 45000,
+    "year": 2019,
+    "engineType": "Дизельный",
+    "transmission": "Ручная",
+    "imageUrl": "/images/audi-a4.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Mercedes-Benz",
+    "model": "E-Class",
+    "color": "Серый",
+    "price": 55000,
+    "year": 2021,
+    "engineType": "Бензиновый",
+    "transmission": "Роботизированная",
+    "imageUrl": "/images/mercedes-e-class.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Nissan",
+    "model": "Leaf",
+    "color": "Зеленый",
+    "price": 32000,
+    "year": 2020,
+    "engineType": "Электрический",
+    "range": 240,
+    "imageUrl": "/images/nissan-leaf.jpg"
+  },
+  {
+    "id": 6,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "color": "Красный",
+    "price": 23000,
+    "year": 2017,
+    "engineType": "Бензиновый",
+    "transmission": "Ручная",
+    "imageUrl": "/images/toyota-corolla.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "Ford",
+    "model": "Mustang",
+    "color": "Желтый",
+    "price": 50000,
+    "year": 2019,
+    "engineType": "Бензиновый",
+    "transmission": "Автоматическая",
+    "imageUrl": "/images/ford-mustang.jpg"
+  },
+  {
+    "id": 8,
+    "brand": "Chevrolet",
+    "model": "Bolt",
+    "color": "Синий",
+    "price": 36000,
+    "year": 2021,
+    "engineType": "Электрический",
+    "range": 259,
+    "imageUrl": "/images/chevrolet-bolt.jpg"
+  },
+  {
+    "id": 9,
+    "brand": "Volvo",
+    "model": "XC60",
+    "color": "Черный",
+    "price": 48000,
+    "year": 2020,
+    "engineType": "Дизельный",
+    "transmission": "Автоматическая",
+    "imageUrl": "/images/volvo-xc60.jpg"
+  },
+  {
+    "id": 10,
+    "brand": "Hyundai",
+    "model": "Ioniq Electric",
+    "color": "Белый",
+    "price": 37000,
+    "year": 2022,
+    "engineType": "Электрический",
+    "range": 170,
+    "imageUrl": "/images/hyundai-ioniq-electric.jpg"
+  },
+  {
+    "brand": "sfsdf",
+    "model": "sfsdf",
+    "year": 345345,
+    "color": "fsg",
+    "price": 123,
+    "imageUrl": "https://www.google.com/imgres?q=%D0%B0%D0%B2%D1%82%D0%BE&imgurl=https%3A%2F%2Fi.47news.ru%2Ftitles%2F2023%2F09%2F20230930_0zws0gjjhgdpoo7z6709.jpg&imgrefurl=https%3A%2F%2F47news.ru%2Farticles%2F238554%2F&docid=_oO1__WixnV5qM&tbnid=XK95R0Pm8o2VgM&vet=12ahUKEwi66ZfmrJaIAxX_ppUCHYmADlIQM3oECGYQAA..i&w=608&h=406&hcb=2&ved=2ahUKEwi66ZfmrJaIAxX_ppUCHYmADlIQM3oECGYQAA",
+    "id": 11
+  },
+  {
+    "brand": "dfsdf",
+    "model": "sfsdf",
+    "year": 123,
+    "color": "dfgdg",
+    "price": 1234,
+    "imageUrl": "https://i.47news.ru/titles/2023/09//20230930_0zws0gjjhgdpoo7z6709.jpg",
+    "id": 12
+  },
+  {
+    "brand": "minicooper",
+    "model": "qw2",
+    "year": 2001,
+    "color": "красный",
+    "price": 2000000,
+    "imageUrl": "https://img-c.drive.ru/models.large.main.images/0000/000/000/001/b5a/48d975ea52b85703-main.jpg",
+    "id": 13
+  },
+  {
+    "brand": "тест",
+    "model": "1234",
+    "year": 3456,
+    "color": "цуке",
+    "price": 456,
+    "imageUrl": "",
+    "engineType": "Электрический",
+    "id": 14
+  },
+  {
+    "brand": "12234",
+    "model": "1234",
+    "year": 1234,
+    "color": "1234",
+    "price": 1234,
+    "imageUrl": "",
+    "engineType": "Бензиновый",
+    "id": 15
+  },
+  {
+    "brand": "ваппррр",
+    "model": "уууу",
+    "year": 1111,
+    "color": "аааа",
+    "price": 2222,
+    "imageUrl": "",
+    "engineType": "Электрический",
+    "id": 16
+  },
+  {
+    "brand": "тайота",
+    "model": "кул",
+    "year": 2023,
+    "color": "розовый",
+    "price": 12000000,
+    "imageUrl": "",
+    "engineType": "Бензиновый",
+    "transmission": "",
+    "range": 0,
+    "id": 17
+  },
+  {
+    "brand": "мини купер",
+    "model": "гуд",
+    "year": 2020,
+    "color": "желтый",
+    "price": 2000000,
+    "imageUrl": "",
+    "engineType": "Электрический",
+    "transmission": "",
+    "range": 0,
+    "id": 18
+  }
+]
