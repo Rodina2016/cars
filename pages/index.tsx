@@ -16,8 +16,6 @@ export default function CarsPage() {
   }, []);
 
   return (
- 
       <CarList cars={cars} />
-   
   );
 }
